@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09-09-2015, 09:35:58
+    Author     : jonassimonsen
+*/
+.nav a {
+    color: #5a5a5a;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 14px 10px;
+    text-transform: uppercase;
+}
+
+.nav li {
+    display: inline;
+}
+
+.jumbotron {
+    background-image:url('http://wallpaperbang.com/wp-content/uploads/2015/08/lego-star-wars-wallpaper.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron .container {
+    position: relative;
+    top:100px;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 48px;  
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 20px;
+    color: #fff;
+}
+
+.learn-more {
+    background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+    font-family: 'Shift', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.learn-more a {
+    color: #00b0ff;
+}
+
+.members {
+    background-color: #f7f7f7;
+    height: 500px;
+}
+
+.andreaspicture {
+    width: 180px;
+    height: 180px;
+    background-size:cover; 
+    background-position: center; 
+    background-repeat:no-repeat; 
+    background-image:url('http://wallpaperbang.com/wp-content/uploads/2015/08/lego-star-wars-wallpaper.jpg');
+}
+
+.christianpicture {
+    width: 180px;
+    height: 180px;
+    background-size:cover; 
+    background-position: center; 
+    background-repeat:no-repeat; 
+    background-image:url('http://wallpaperbang.com/wp-content/uploads/2015/08/lego-star-wars-wallpaper.jpg');
+}
+
+
+
+.jonaspicture {
+    width: 180px;
+    height: 180px;
+    background-size:cover; 
+    background-position: center; 
+    background-repeat:no-repeat; 
+    background-image:url('http://wallpaperbang.com/wp-content/uploads/2015/08/lego-star-wars-wallpaper.jpg');
+}
+
+
+
