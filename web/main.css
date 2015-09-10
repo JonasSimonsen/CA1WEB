@@ -62,33 +62,37 @@ and open the template in the editor.
     height: 500px;
 }
 
+.members h3 {
+    font-family: 'Shift', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
 .andreaspicture {
+    background-image:url('image/background.jpg');
     width: 180px;
     height: 180px;
     background-size:cover; 
     background-position: center; 
     background-repeat:no-repeat; 
-    background-image:url('image/background.jpg');
 }
 
 .christianpicture {
+    background-image:url('image/background.jpg');
     width: 180px;
     height: 180px;
     background-size:cover; 
     background-position: center; 
     background-repeat:no-repeat; 
-    background-image:url('image/background.jpg');
 }
 
-
-
 .jonaspicture {
+    background-image:url('image/background.jpg');
     width: 180px;
     height: 180px;
     background-size:cover; 
     background-position: center; 
     background-repeat:no-repeat; 
-    background-image:url('image/background.jpg');
 }
 
 
