@@ -8,7 +8,7 @@
         <web-resource-collection>
             <web-resource-name>dok</web-resource-name>
             <description/>
-            <url-pattern>/dokuments/SP-2.pdf</url-pattern>
+            <url-pattern>/dokuments/dokumentation.pdf</url-pattern>
         </web-resource-collection>
         <auth-constraint>
             <description/>
